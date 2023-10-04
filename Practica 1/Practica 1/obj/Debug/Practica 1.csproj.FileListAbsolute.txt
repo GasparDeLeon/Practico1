@@ -1,0 +1,7 @@
+C:\Users\gaspi\OneDrive\Escritorio\PROGRAMACION 2\Practica 1\Practica 1\bin\Debug\Practica 1.exe.config
+C:\Users\gaspi\OneDrive\Escritorio\PROGRAMACION 2\Practica 1\Practica 1\bin\Debug\Practica 1.exe
+C:\Users\gaspi\OneDrive\Escritorio\PROGRAMACION 2\Practica 1\Practica 1\bin\Debug\Practica 1.pdb
+C:\Users\gaspi\OneDrive\Escritorio\PROGRAMACION 2\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.AssemblyReference.cache
+C:\Users\gaspi\OneDrive\Escritorio\PROGRAMACION 2\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\gaspi\OneDrive\Escritorio\PROGRAMACION 2\Practica 1\Practica 1\obj\Debug\Practica 1.exe
+C:\Users\gaspi\OneDrive\Escritorio\PROGRAMACION 2\Practica 1\Practica 1\obj\Debug\Practica 1.pdb
